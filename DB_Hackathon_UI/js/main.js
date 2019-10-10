@@ -693,7 +693,7 @@
       var myChart = new Chart(ctx, {
         type: 'line',
         data: {
-          labels: ["2010", "2011", "2012", "2013", "2014", "2015", "2016"],
+          labels: ["APR-19", "MAY-19", "JUN-19", "JUL-19", "AUG-19", "SEP-19"],
           type: 'line',
           defaultFontFamily: 'Poppins',
           datasets: [{
